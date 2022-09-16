@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 85289723-b2d0-45fa-9f08-61e0069a8d9a
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 75466d41-d549-4d8e-8ee5-1d8a9ea3682d
+  name: 'Session 1: Organizing a Recitation Section'
+  url: /pages/session-1-organizing-a-recitation-section-to-promote-student-learning
+  weight: 20
