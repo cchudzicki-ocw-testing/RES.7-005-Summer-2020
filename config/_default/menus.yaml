@@ -11,3 +11,7 @@ leftnav:
   name: 'Session 2: Keeping Students Engaged'
   url: /pages/session-2-keeping-students-engaged
   weight: 30
+- identifier: da029e60-7255-42f9-a3e6-0c8cb08973e8
+  name: 'Session 3: Creating an Inclusive Classroom'
+  url: /pages/session-3-creating-an-inclusive-classroom
+  weight: 40
