@@ -51,11 +51,33 @@ ILO4: Identify how different teaching practices can be received by diverse audie
 
 ILO5: Identify ways of communicating with students that promote a growth mindset and minimize stereotype threat.
 
-Program requirements
+## Program requirements
 
 - Pre-semester statement of teaching goals (Your Goals for Teaching worksheet)
 - Completion of 6 core pedagogy sessions
 - Completion of 1 special session
 - An instructor-led teaching observation and debrief
 
-## Core sessions
+### Core sessions
+
+Session 1 (pre-semester) – Organizing a recitation section to promote student learning
+
+Session 2 (pre-semester) – Keeping students engaged
+
+Session 3 – Creating an inclusive classroom
+
+Session 4 – Providing constructive, equitable feedback
+
+Session 5 – How students learn
+
+Session 6 – Supporting our students
+
+### Special sessions
+
+Session 7– Writing effective questions
+
+Session 8 – Making material relevant to motivate students
+
+Session 9 – Teaching students how to learn
+
+Session 10 – Leveraging your teaching experience for the future
