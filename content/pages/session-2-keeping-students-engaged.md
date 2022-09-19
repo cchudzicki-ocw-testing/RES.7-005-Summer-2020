@@ -32,3 +32,9 @@ Let folks know where they can find ideas for more active learning strategies!
 Finally, give folks a chance to design their own active learning activity to use in their next class, working independently. Following the independent work period, consider pairing folks off to discuss so that they can get feedback from a peer.
 
 Close with an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
+
+## Files
+
+\[Session 2\_Keeping Students Engaged-- slides\]
+
+\[Session 2\_Active Learning Activities Breakout Groups\]
