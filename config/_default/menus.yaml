@@ -7,3 +7,7 @@ leftnav:
   name: 'Session 1: Organizing a Recitation Section'
   url: /pages/session-1-organizing-a-recitation-section-to-promote-student-learning
   weight: 20
+- identifier: 84e63ce2-acd5-44b2-a71a-07e8f7a4f6ab
+  name: 'Session 2: Keeping Students Engaged'
+  url: /pages/session-2-keeping-students-engaged
+  weight: 30
