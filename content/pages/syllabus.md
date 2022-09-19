@@ -37,7 +37,9 @@ Those who attend all 6 core training sessions, participate in a teaching observa
 - **Present** in a way that effectively aids communication, taking into account organization of materials, use of classroom space, and physical presence (i.e. body language, facial expression, tone, etc.).
 - **Create a respectful learning environment** where students feel comfortable participating in the classroom, and teaching staff can work as a team to best serve students.
 
- 
+\[Framing Discussion slide sets\]
+
+\[Instructor-TA agreement form\]
 
 ### Intended Learning Outcomes
 
@@ -53,10 +55,10 @@ ILO5: Identify ways of communicating with students that promote a growth mindset
 
 ## Program requirements
 
-- Pre-semester statement of teaching goals (Your Goals for Teaching worksheet)
+- Pre-semester statement of teaching goals (Your Goals for Teaching worksheet) \[Link to Your Goals for teaching\]
 - Completion of 6 core pedagogy sessions
 - Completion of 1 special session
-- An instructor-led teaching observation and debrief
+- An instructor-led teaching observation and debrief \[Biology TA Feedback form\]
 
 ### Core sessions
 
