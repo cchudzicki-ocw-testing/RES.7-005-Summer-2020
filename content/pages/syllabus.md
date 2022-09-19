@@ -41,6 +41,8 @@ Those who attend all 6 core training sessions, participate in a teaching observa
 
 \[Instructor-TA agreement form\]
 
+\[Your Goals for Teaching\]
+
 ### Intended Learning Outcomes
 
 ILO1: Articulate strategies for recitation organization that promote student learning
