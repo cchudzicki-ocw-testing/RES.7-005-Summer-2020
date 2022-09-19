@@ -31,3 +31,5 @@ It can be helpful to first give TAs time to think individually, then break them 
 Finally, provide an opportunity for TAs to reflect on what they will do on their first day of teaching using the provided prompts. A free write or think-pair-share works well here, depending on the amount of time you have left.
 
 Close with an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
+
+## Files
