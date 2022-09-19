@@ -36,4 +36,4 @@ Close with an Exit Ticket that prompts folks to think about what they are taking
 
 \[Lesson Planning Worksheet\]
 
-\[Session 1 Organizing a Recitation section\]
+\[Session 1 Organizing a Recitation section--slides\]
