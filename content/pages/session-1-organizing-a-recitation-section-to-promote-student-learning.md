@@ -33,3 +33,7 @@ Finally, provide an opportunity for TAs to reflect on what they will do on their
 Close with an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
 
 ## Files
+
+\[Lesson Planning Worksheet\]
+
+\[Session 1 Organizing a Recitation section\]
