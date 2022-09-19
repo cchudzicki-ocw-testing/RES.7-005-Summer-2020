@@ -83,3 +83,5 @@ Session 8 – Making material relevant to motivate students
 Session 9 – Teaching students how to learn
 
 Session 10 – Leveraging your teaching experience for the future
+
+## Acknowledgements
