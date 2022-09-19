@@ -24,3 +24,9 @@ The primary activity for the day prompts TAs to reflect on the inclusivity of co
 Close by presenting the idea that inclusive teaching is an iterative process. Teachers try a new way of soliciting participation or engaging with their students, evaluate the results, and revise as needed. (Similar to the process of scientific experimentation and revision.) A supplementary table is also provided that provides a short compilation of common strategies for inclusive participation, drawn from Tanner (2013) [Structure Matters: Twenty-one Teaching Strategies to Promote Student Engagement and Cultivate Classroom Equity.](https://www.lifescied.org/doi/full/10.1187/cbe.13-06-0115) *CBE – Life Sciences Education 12(1-10).*
 
 Provide an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
+
+## Files
+
+\[Session 3\_Creating an inclusive classroom--slides\]
+
+\[Session 3\_Inclusive Classroom shared document\]
