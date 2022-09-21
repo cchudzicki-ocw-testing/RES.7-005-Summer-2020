@@ -32,3 +32,9 @@ Present the primary activity for the day:
 - (Optional if TAs have computers with them or if done remotely): Have each person or group contribute a slide to a shared google presentation that summarizes their strategy and project this presentation on the screen while folks share out.
 
 Close with an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
+
+## Files
+
+\[Session 5 How Students Learn-- slides\]
+
+\[Session 5 Shared Presentation\]
