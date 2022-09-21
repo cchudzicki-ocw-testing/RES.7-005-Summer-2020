@@ -23,3 +23,7 @@ leftnav:
   name: 'Session 5: How Students Learn'
   url: /pages/session-5-how-students-learn
   weight: 60
+- identifier: ea0958e0-ce4b-47a4-bbe7-513988c9c464
+  name: 'Session 6: Supporting Our Students'
+  url: /pages/session-6-supporting-our-students
+  weight: 70
