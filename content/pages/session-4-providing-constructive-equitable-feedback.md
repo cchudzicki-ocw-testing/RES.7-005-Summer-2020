@@ -8,12 +8,12 @@ uid: 16428e24-4dca-449a-86e6-790a4a249b63
 ---
 *Investigating tools and techniques for grading*
 
-## Intended Learning Outcomes:
+## Intended Learning Outcomes
 
 1. Describe the features of feedback that is both effective and equitable
 2. Use grading tools for effective and equitable grading
 
-## Facilitation Notes:
+## Facilitation Notes
 
 Begin with a discussion that asks folks to weigh in on the following question – “What is the point of giving students feedback?”. You can do this in a free form discussion setting, or use an anonymous polling platform. It can help to prompt folks to think back about a time when they received helpful feedback as a student or trainee.
 
@@ -27,4 +27,4 @@ Close with a discussion of some tips for grading more efficiently and preventing
 
 ## Files
 
-\[Session 4 slides\]
+\[Session 4\_Providing Equitable Feedback--slides\]
