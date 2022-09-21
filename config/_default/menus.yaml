@@ -27,3 +27,7 @@ leftnav:
   name: 'Session 6: Supporting Our Students'
   url: /pages/session-6-supporting-our-students
   weight: 70
+- identifier: 6230ba07-14cb-48b7-a27d-52cb58b21788
+  name: 'Session 7: Writing Effective Questions'
+  url: /pages/session-7-writing-effective-questions
+  weight: 80
