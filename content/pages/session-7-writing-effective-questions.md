@@ -31,3 +31,9 @@ Next, explore different question types using the slides provided. Emphasize the 
 Finally, leave time (at least 15min) for TAs to design and receive feedback on a question that they draft. They may do this on any topic of their choosing. Peer feedback in pairs typically works best for this activity so that there is a lower barrier and plenty of time to share.
 
  Close with additional tips for question design and an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
+
+## Files
+
+\[Session 7\_Writing Effective Questions--slides\]
+
+\[Session 7\_Tips for Assessment Construction\]
