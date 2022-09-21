@@ -23,3 +23,12 @@ Rosenshine, B. (2012) Principles of instruction: Research-based strategies that 
 Begin with a discussion that asks folks to reflect on what they think promotes student learning. They can think about this from the perspective of previous pedagogy discussions or from their own experiences in the classroom (either as student or teacher). You can do this exercise as a free form discussion or use an anonymous polling platform.
 
 To frame the day’s reading, discuss where we get information about how students learn – research in cognitive science and classroom practices. This is covered in the introduction to the paper.
+
+Present the primary activity for the day:
+
+- Each student (or groups of students, depending on how many you have) will present on a strategy outlined in the paper. They will have 10 minutes to read their section of paper, after which they will report back to the group. They should address 1) what the strategy teaches us about how students learn and 2) an example of how the strategy could be implemented in their teaching. 
+- If you are working with a smaller class size, consider letting folks pick which strategy they’d like to learn more about. If working with a larger class size, have folks count off which strategy they are assigned.
+- Before sending folks off to read about their strategy, choose one strategy yourself and model the presentation to show them what you are looking for them to report back.
+- (Optional if TAs have computers with them or if done remotely): Have each person or group contribute a slide to a shared google presentation that summarizes their strategy and project this presentation on the screen while folks share out.
+
+Close with an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
