@@ -39,3 +39,7 @@ leftnav:
   name: 'Session 9: Teaching students how to learn'
   url: /pages/session-9-teaching-students-how-to-learn
   weight: 100
+- identifier: 542be5c3-5a44-4438-af15-9657197cc841
+  name: 'Session 10: Leveraging Your Teaching Experience for the Future'
+  url: /pages/session-10-leveraging-your-teaching-experience-for-the-future
+  weight: 110
