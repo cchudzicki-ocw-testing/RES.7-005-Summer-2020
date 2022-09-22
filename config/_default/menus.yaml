@@ -31,3 +31,7 @@ leftnav:
   name: 'Session 7: Writing Effective Questions'
   url: /pages/session-7-writing-effective-questions
   weight: 80
+- identifier: 220a96c6-754a-4a7e-926c-1fc6bc60d34c
+  name: 'Session 8: Making Material Relevant to Motivate Students'
+  url: /pages/session-8-making-material-relevant-to-motivate-students
+  weight: 90
