@@ -24,3 +24,11 @@ Growing up, history courses in school were always difficult for me. I didn’t t
 Confidence – How can we promote students’ beliefs that they can succeed? Have TAs reflect on previous discussions in the pedagogy series surrounding actions that promote student practice, support, and feedback. How might these actions impact student confidence?
 
 Context – How can we reinforce the value of learning the material? Engage TAs in a discussion about where value comes from. Four possible examples are given (from Eccles (2009) *Who Am I and What Am I Going to Do With My Life? Personal and Collective Identities as Motivators of Action*). Challenge TAs to think about which of these areas are possible to target as teachers. To explore the concept of utility value in greater depth, use the data from Canning & Harackiewicz (2015) *Teach It, Don’t Preach It: The Differential Effects of Directly Communicated and Self-Generated Utility–Value Information.* End the discussion of context by providing an example of a utility value intervention from the literature (Harackiewicz et al. (2016) *Closing Achievement Gaps with a Utility-Value Intervention: Disentangling Race and Social Class*), emphasizing its particular impact on students from under-represented or first-generation backgrounds.
+
+Choice: Present TAs with two different scenarios that empower student choice in the classroom. Have TAs read through these on their own and then prompt a discussion about whether they think these would be effective and why.
+
+Leave at least ten minutes for TAs to come up with one concrete idea of how they can foster student motivation in their next recitation. Ask folks to share with the group or in pairs. Close with an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
+
+## Files
+
+\[Session 8\_Making Materials Relevant to Motivate Students--slides\]
