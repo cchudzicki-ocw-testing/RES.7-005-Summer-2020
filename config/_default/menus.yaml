@@ -35,3 +35,7 @@ leftnav:
   name: 'Session 8: Making Material Relevant to Motivate Students'
   url: /pages/session-8-making-material-relevant-to-motivate-students
   weight: 90
+- identifier: e83dd5df-bbd0-48d1-af36-e7be62a4bfc6
+  name: 'Session 9: Teaching students how to learn'
+  url: /pages/session-9-teaching-students-how-to-learn
+  weight: 100
