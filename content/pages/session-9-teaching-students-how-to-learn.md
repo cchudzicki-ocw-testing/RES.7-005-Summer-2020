@@ -38,3 +38,7 @@ b.     what are students going to be expected to do with this material on fu
 3.     Provide opportunities for students to reflect on their learning – Using the metacognition graphic provided earlier, invite TAs to select a prompt from the graphic and use this as a jumping off point for designing their own in-class activity that promotes metacognition. A rough idea for an activity is fine, and it can be a modification of something they are already doing. Have a few folks share out what prompt they chose and their ideas.
 
  Close with an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
+
+## Files
+
+\[Session 9\_Teaching Students how to Learn--slides\]
