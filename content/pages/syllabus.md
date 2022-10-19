@@ -85,3 +85,5 @@ Session 9 – Teaching students how to learn
 Session 10 – Leveraging your teaching experience for the future
 
 ## Acknowledgements
+
+The course instructor would like to acknowledge the contributions of \_\_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_\_ from the MIT Biology Department.
