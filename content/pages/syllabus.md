@@ -55,10 +55,10 @@ ILO5: Identify ways of communicating with students that promote a growth mindset
 
 ## Program requirements
 
-- Pre-semester statement of teaching goals (Your Goals for Teaching worksheet) \[Link to Your Goals for teaching\]
+- Pre-semester statement of teaching goals Your Goals for Teaching worksheet (PDF)
 - Completion of 6 core pedagogy sessions
 - Completion of 1 special session
-- An instructor-led teaching observation and debrief \[Biology TA Feedback form\]
+- An instructor-led teaching observation and debrief Biology TA Feedback Form (PDF)
 
 ### Core sessions
 
