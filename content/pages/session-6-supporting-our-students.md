@@ -31,6 +31,6 @@ Close with an Exit Ticket that prompts folks to think about what they are taking
 
 ## Files
 
-\[Session 6\_Supporting our students\_scenarios\]
+{{% resource_link "3be9324f-fdb5-4953-b7f8-f037e7f985f8" "Session 6: Supporting Our Students—Scenarios (PDF)" %}}
 
 \[Session 6\_Supporting our students--slides\]
