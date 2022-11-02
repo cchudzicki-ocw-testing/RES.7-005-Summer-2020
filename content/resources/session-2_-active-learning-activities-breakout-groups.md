@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/biology-teaching-assistant-ta-training/session-2_-active-learning-activities-breakout-groups.pdf
+file: /courses/res-7-005-biology-teaching-assistant-ta-training-summer-2020/session-2_-active-learning-activities-breakout-groups.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''

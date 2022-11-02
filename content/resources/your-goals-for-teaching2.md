@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/biology-teaching-assistant-ta-training/your-goals-for-teaching2.pdf
+file: /courses/res-7-005-biology-teaching-assistant-ta-training-summer-2020/your-goals-for-teaching2.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''

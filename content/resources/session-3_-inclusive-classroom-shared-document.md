@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/biology-teaching-assistant-ta-training/session-3_-inclusive-classroom-shared-document.pdf
+file: /courses/res-7-005-biology-teaching-assistant-ta-training-summer-2020/session-3_-inclusive-classroom-shared-document.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
