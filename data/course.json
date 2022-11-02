@@ -14,8 +14,10 @@
   ],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "biology-teaching-assistant-ta-training"
+    "content": [
+      "00def954-49e8-4b1d-9a8c-d9925ac2b0e4"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "46b2c06d-c066-41e3-b17f-6e1db4a57966",
