@@ -37,4 +37,4 @@ Close with an Exit Ticket that prompts folks to think about what they are taking
 
 \[Session 5 How Students Learn-- slides\]
 
-\[Session 5 Shared Presentation\]
+Session 5: Shared Presentation (PDF)
