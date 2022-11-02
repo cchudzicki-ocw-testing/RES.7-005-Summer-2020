@@ -29,4 +29,4 @@ Provide an Exit Ticket that prompts folks to think about what they are taking aw
 
 \[Session 3\_Creating an inclusive classroom--slides\]
 
-\[Session 3\_Inclusive Classroom shared document\]
+{{% resource_link "cf00d651-5860-4e77-9722-9e472b2e9409" "Session 3: Inclusive Classroom Shared Document (PDF)" %}}
