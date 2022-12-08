@@ -31,7 +31,7 @@ Those who attend all 6 core training sessions, participate in a teaching observa
 
 ## Goals & Intended Learning Outcomes
 
-### Goals for TAs
+#### Goals for TAs
 
 - **Communicate** clearly with a broad audience on a variety of topics in biology, and thoughtfully address questions which may arise in this setting.
 - **Present** in a way that effectively aids communication, taking into account organization of materials, use of classroom space, and physical presence (i.e. body language, facial expression, tone, etc.).
@@ -41,7 +41,7 @@ Those who attend all 6 core training sessions, participate in a teaching observa
 
 {{% resource_link "0b2509d0-c62b-4cae-982a-a349ba0d7375" "Instructor-TA agreement Form (PDF)" %}}
 
-### Intended Learning Outcomes
+#### Intended Learning Outcomes
 
 ILO1: Articulate strategies for recitation organization that promote student learning
 
