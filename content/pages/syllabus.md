@@ -86,4 +86,4 @@ Session 10 – Leveraging your teaching experience for the future
 
 ## Acknowledgements
 
-The course instructor would like to acknowledge the contributions of Dr. Darcy Gordon, who contributed materials and activities used in sessions 3 & 4.
+The course instructor would like to acknowledge the contributions of Dr. Darcy Gordon, Instructor of Blended and Online Initiatives in the MIT Biology Department, who created materials and activities used in sessions 3 & 4.
