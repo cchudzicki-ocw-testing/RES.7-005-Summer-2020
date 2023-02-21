@@ -37,7 +37,7 @@ Those who attend all 6 core training sessions, participate in a teaching observa
 - **Present** in a way that effectively aids communication, taking into account organization of materials, use of classroom space, and physical presence (i.e. body language, facial expression, tone, etc.).
 - **Create a respectful learning environment** where students feel comfortable participating in the classroom, and teaching staff can work as a team to best serve students.
 
-\[Framing Discussion slide sets\]
+{{% resource_link "f6ab7bd7-ab6a-4ec2-abb4-23521ff453d5" "Framing Discussion Slides (PDF)" %}}
 
 {{% resource_link "0b2509d0-c62b-4cae-982a-a349ba0d7375" "Instructor-TA agreement Form (PDF)" %}}
 
