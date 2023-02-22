@@ -27,4 +27,4 @@ Close with a discussion of some tips for grading more efficiently and preventing
 
 ## Files
 
-\[Session 4\_Providing Effective Equitable Feedback--slides\]
+{{% resource_link "04d44dbe-c5fb-4b38-9a8f-19dabb7ea9e8" "Session 4 Slides: Providing Effective Equitable Feedback (PDF)" %}}
