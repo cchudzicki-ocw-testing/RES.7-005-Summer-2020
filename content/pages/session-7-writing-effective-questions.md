@@ -34,6 +34,6 @@ Finally, leave time (at least 15min) for TAs to design and receive feedback on a
 
 ## Files
 
-\[Session 7\_Writing Effective Questions--slides\]
+{{% resource_link "d7893bdf-72f6-4919-839b-7e38c9e45db5" "Session 7 Slides: Writing Effective Questions (PDF)" %}}
 
 {{% resource_link "933c3edc-6682-4ca6-8770-0aaa328bf18e" "Session 7: Tips for Assessment Construction (PDF)" %}}
