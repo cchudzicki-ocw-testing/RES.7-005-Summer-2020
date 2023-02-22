@@ -31,4 +31,4 @@ Leave at least ten minutes for TAs to come up with one concrete idea of how they
 
 ## Files
 
-\[Session 8\_Making Materials Relevant to Motivate Students--slides\]
+{{% resource_link "d6d07373-44b7-4a53-929a-59ca7acd0a51" "Session 8 Slides: Making Materials Relevant to Motivate Students (PDF)" %}}
