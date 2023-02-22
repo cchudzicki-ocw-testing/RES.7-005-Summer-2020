@@ -35,6 +35,6 @@ Close with an Exit Ticket that prompts folks to think about what they are taking
 
 ## Files
 
-\[Session 5 How Students Learn-- slides\]
+{{% resource_link "c08a1bfd-7d0c-4a2c-af4e-462e7b6407b0" "Session 5 Slides: How Students Learn (PDF)" %}}
 
-Session 5: Shared Presentation (PDF)
+{{% resource_link "d8cc5568-6217-46d7-980c-348c262e8c90" "Session 5: Shared Presentation (PDF)" %}}
