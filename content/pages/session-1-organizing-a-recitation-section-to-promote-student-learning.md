@@ -36,4 +36,4 @@ Close with an Exit Ticket that prompts folks to think about what they are taking
 
 {{% resource_link "b8b1cf06-24e3-4e73-a539-21aadd4b2054" "Lesson Planning Worksheet" %}}
 
-\[Session 1 Organizing a Recitation section--slides\]
+{{% resource_link "837b4bdb-98b1-4349-98ba-9c936a899844" "Session 1 Slides: Organizing a Recitation Section to Promote Student Learning (PDF)" %}}
