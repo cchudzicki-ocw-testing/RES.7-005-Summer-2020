@@ -35,6 +35,6 @@ Close with an Exit Ticket that prompts folks to think about what they are taking
 
 ## Files
 
-\[Session 2\_Keeping Students Engaged-- slides\]
+{{% resource_link "4a46175b-fb90-40ef-b1b3-20d3f5c69dc0" "Session 2 Slides: Keeping Students Engaged (PDF)" %}}
 
 {{% resource_link "9bfbe507-f66e-4061-89e8-be2bdb3b30e0" "Session 2: Active Learning Activities Breakout Groups (PDF)" %}}
