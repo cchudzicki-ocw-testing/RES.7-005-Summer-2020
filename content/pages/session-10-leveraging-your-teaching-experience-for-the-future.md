@@ -29,4 +29,4 @@ Close with an Exit Ticket that prompts folks to think about what they are taking
 
 ## Files
 
-\[Session 10\_Leveraging Your Teaching Experience for the Future--slides\]
+{{% resource_link "231ad12b-1a41-4b6a-9ddc-b5ea6fb37a6c" "Session 10 Slides: Leveraging Your Teaching Experience for the Future (PDF)" %}}
