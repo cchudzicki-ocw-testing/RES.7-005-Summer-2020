@@ -27,6 +27,6 @@ Provide an Exit Ticket that prompts folks to think about what they are taking aw
 
 ## Files
 
-\[Session 3\_Creating an inclusive classroom--slides\]
+{{% resource_link "523b42d8-4022-4ad1-a0f7-664d69c11bb3" "Session 3 Slides: Creating an Inclusive Classroom (PDF)" %}}
 
 {{% resource_link "cf00d651-5860-4e77-9722-9e472b2e9409" "Session 3: Inclusive Classroom Shared Document (PDF)" %}}
