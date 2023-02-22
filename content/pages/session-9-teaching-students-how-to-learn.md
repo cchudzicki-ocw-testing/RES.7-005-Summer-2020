@@ -41,4 +41,4 @@ b.     what are students going to be expected to do with this material on fu
 
 ## Files
 
-\[Session 9\_Teaching Students how to Learn--slides\]
+{{% resource_link "2617fa0c-acbb-4a73-bbde-e68cf108f507" "Session 9 Slides: Teaching Students how to Learn (PDF)" %}}
