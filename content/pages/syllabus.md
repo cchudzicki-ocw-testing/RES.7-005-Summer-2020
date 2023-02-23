@@ -62,27 +62,27 @@ ILO5: Identify ways of communicating with students that promote a growth mindset
 
 ### Core sessions
 
-Session 1 (pre-semester) – Organizing a recitation section to promote student learning
+{{% resource_link "75466d41-d549-4d8e-8ee5-1d8a9ea3682d" "Session 1 (pre-semester) – Organizing a recitation section to promote student learning" %}}
 
-Session 2 (pre-semester) – Keeping students engaged
+{{% resource_link "84e63ce2-acd5-44b2-a71a-07e8f7a4f6ab" "Session 2 (pre-semester) – Keeping students engaged" %}}
 
-Session 3 – Creating an inclusive classroom
+{{% resource_link "da029e60-7255-42f9-a3e6-0c8cb08973e8" "Session 3 – Creating an inclusive classroom" %}}
 
-Session 4 – Providing constructive, equitable feedback
+{{% resource_link "16428e24-4dca-449a-86e6-790a4a249b63" "Session 4 – Providing constructive, equitable feedback" %}}
 
-Session 5 – How students learn
+{{% resource_link "010a645f-e0b6-465c-b6db-f538efd0b386" "Session 5 – How students learn" %}}
 
-Session 6 – Supporting our students
+{{% resource_link "ea0958e0-ce4b-47a4-bbe7-513988c9c464" "Session 6 – Supporting our students" %}}
 
 ### Special sessions
 
-Session 7– Writing effective questions
+{{% resource_link "6230ba07-14cb-48b7-a27d-52cb58b21788" "Session 7– Writing effective questions" %}}
 
-Session 8 – Making material relevant to motivate students
+{{% resource_link "220a96c6-754a-4a7e-926c-1fc6bc60d34c" "Session 8 – Making material relevant to motivate students" %}}
 
-Session 9 – Teaching students how to learn
+{{% resource_link "e83dd5df-bbd0-48d1-af36-e7be62a4bfc6" "Session 9 – Teaching students how to learn" %}}
 
-Session 10 – Leveraging your teaching experience for the future
+{{% resource_link "542be5c3-5a44-4438-af15-9657197cc841" "Session 10 – Leveraging your teaching experience for the future" %}}
 
 ## Acknowledgements
 
