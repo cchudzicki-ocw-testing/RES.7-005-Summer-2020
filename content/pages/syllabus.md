@@ -86,4 +86,4 @@ Session 10 – Leveraging your teaching experience for the future
 
 ## Acknowledgements
 
-The course instructor would like to acknowledge the contributions of Dr. Darcy Gordon, Instructor of Blended and Online Initiatives in the MIT Biology Department, who created materials and activities used in sessions 3 & 4.
+The course instructor would like to acknowledge the contributions of Dr. Darcy Gordon, Instructor of Blended and Online Initiatives in the MIT Biology Department, who created materials and activities used in sessions 3 & 4. In addition, the instructor would like to acknowledge the contributions of the Teaching Team, Dr. Mary Ellen Wiltrout (Instructor of Blended and Online Initiatives, MIT Biology Department), Alice Lydia Herneisen (Graduate Student, MIT Biology Department), Nima Jaberi-Lashkari (Graduate Student, MIT Biology Department), and Byron Lee (Graduate Student, MIT Biology Department), who created the Instructor-TA agreement Form and the TA Feedback Form.
