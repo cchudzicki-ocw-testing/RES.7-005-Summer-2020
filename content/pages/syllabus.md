@@ -58,7 +58,7 @@ ILO5: Identify ways of communicating with students that promote a growth mindset
 - Pre-semester statement of teaching goals {{% resource_link "96e0599e-3b81-4255-b9e5-6eb27d361635" "Your Goals for Teaching worksheet (PDF)" %}}
 - Completion of 6 core pedagogy sessions
 - Completion of 1 special session
-- An instructor-led teaching observation and debrief {{% resource_link "deb22f37-bf46-41c1-a89b-369c99589ef5" "Biology TA Feedback Form (PDF)" %}}
+- An instructor-led teaching observation and debrief Biology TA Feedback Form (PDF)
 
 ### Core sessions
 
