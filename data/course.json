@@ -34,7 +34,10 @@
     "content": "1ef67dc6-3755-4bd5-bb7d-d82640ddd99b",
     "website": "biology-teaching-assistant-ta-training"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Activity Assignments with Examples",
+    "Lecture Notes"
+  ],
   "site_uid": "593313c9-3aed-45d9-842c-b0a39d0b674b",
   "site_short_id": "RES.7-005-Summer-2020"
 }
