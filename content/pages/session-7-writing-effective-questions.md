@@ -28,7 +28,7 @@ Next, explore different question types using the slides provided. Emphasize the 
 - True false example: Three progressively better options are provided for making this example more clear and cognitively challenging. Consider presenting them one at a time. The first question is somewhat ambiguous (what reach are we talking about?) and has a problematic verbal cue (“always”). Improve this by adding specificity and asking students to promote analysis over strict recall, achieved in question 2. Increase the challenge for students further by adding multiple statements that they have to evaluate (question 3).
 - Short answer example: Draw an example from one of the courses in the department that one or more of your TAs teach. Make sure to include the prior knowledge that students would be expected to have in answering the question.
 
-Finally, leave time (at least 15min) for TAs to design and receive feedback on a question that they draft. They may do this on any topic of their choosing. Peer feedback in pairs typically works best for this activity so that there is a lower barrier and plenty of time to share.
+Finally, leave time (at least 15 min.) for TAs to design and receive feedback on a question that they draft. They may do this on any topic of their choosing. Peer feedback in pairs typically works best for this activity so that there is a lower barrier and plenty of time to share.
 
  Close with additional tips for question design and an Exit Ticket that prompts folks to think about what they are taking away and what they still have questions about.
 
