@@ -8,7 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Activity Assignments with Examples
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'RES.7-005 Biology TA Training, Session 7: Tips for Assessment Construction'
