@@ -8,7 +8,7 @@ uid: 75466d41-d549-4d8e-8ee5-1d8a9ea3682d
 ---
 *Creating a plan for your recitations*
 
-## Intended Learning Outcomes
+## Intended Learning Outcome
 
 1) Articulate strategies for recitation organization that keep students engaged
 
