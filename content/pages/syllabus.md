@@ -41,7 +41,7 @@ Those who attend all 6 core training sessions, participate in a teaching observa
 
 {{% resource_link "0b2509d0-c62b-4cae-982a-a349ba0d7375" "Instructor-TA agreement Form (PDF)" %}}
 
-#### Intended Learning Outcomes
+#### Intended Learning Outcomes (ILO)
 
 ILO1: Articulate strategies for recitation organization that promote student learning
 
