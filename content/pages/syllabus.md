@@ -39,7 +39,7 @@ Those who attend all 6 core training sessions, participate in a teaching observa
 
 {{% resource_link "f6ab7bd7-ab6a-4ec2-abb4-23521ff453d5" "Framing Discussion Slides (PDF)" %}}
 
-{{% resource_link "f928ef50-0af6-40cf-b915-9ed1cab38f98" "Instructor-TA agreement Form (PDF)" %}}
+Instructor-TA agreement Form (PDF)
 
 #### Intended Learning Outcomes (ILO)
 
