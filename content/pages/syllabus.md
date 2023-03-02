@@ -39,7 +39,7 @@ Those who attend all 6 core training sessions, participate in a teaching observa
 
 {{% resource_link "f6ab7bd7-ab6a-4ec2-abb4-23521ff453d5" "Framing Discussion Slides (PDF)" %}}
 
-Instructor-TA agreement Form (PDF)
+{{% resource_link "0b2509d0-c62b-4cae-982a-a349ba0d7375" "Instructor-TA agreement Form (PDF)" %}}
 
 #### Intended Learning Outcomes (ILO)
 
@@ -58,7 +58,7 @@ ILO5: Identify ways of communicating with students that promote a growth mindset
 - Pre-semester statement of teaching goals {{% resource_link "96e0599e-3b81-4255-b9e5-6eb27d361635" "Your Goals for Teaching worksheet (PDF)" %}}
 - Completion of 6 core pedagogy sessions
 - Completion of 1 special session
-- An instructor-led teaching observation and debrief  Biology TA Feedback Form (PDF)
+- An instructor-led teaching observation and debrief  {{% resource_link "deb22f37-bf46-41c1-a89b-369c99589ef5" "Biology TA Feedback Form (PDF)" %}}
 
 ### Core sessions
 
