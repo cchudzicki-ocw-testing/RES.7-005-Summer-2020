@@ -10,4 +10,4 @@ Nobody comes into this world already knowing how to teach—and most students ar
 
 In the episode of the Chalk Radio podcast embedded below, Dr. Morrill describes how she designed the content of the training program to reflect the specific challenges Biology TAs typically face in their first semester. Among the topics she discusses are the importance of empathy and inclusiveness in classroom teaching, how the same habits of thought that make effective biologists can also make especially effective teachers, and ways in which the course materials from the training program (which she is sharing in a forthcoming supplemental resource on OCW), would lend themselves to being usefully adapted for training TAs in other disciplines and at other institutions.
 
-\[embed podcast episode here\]
+{{< simplecast 554b5a98-76de-42e9-8bae-19a014c4cfc9 >}}
