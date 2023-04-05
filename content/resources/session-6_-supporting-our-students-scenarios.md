@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-7-005-biology-teaching-assistant-ta-training-summer-2020/session-6_-supporting-our-students-scenarios.pdf
+file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-6_-supporting-our-students-scenarios.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''

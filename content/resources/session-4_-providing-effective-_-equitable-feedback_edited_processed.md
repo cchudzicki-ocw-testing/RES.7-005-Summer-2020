@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-7-005-biology-teaching-assistant-ta-training-summer-2020/session-4_-providing-effective-_-equitable-feedback_edited_processed.pdf
+file: /courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/session-4_-providing-effective-_-equitable-feedback_edited_processed.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
