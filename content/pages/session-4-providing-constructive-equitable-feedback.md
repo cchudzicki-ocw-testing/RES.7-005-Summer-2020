@@ -19,7 +19,7 @@ Begin with a discussion that asks folks to weigh in on the following question â€
 
 Introduce TAs to the idea of effective and equitable feedback. Some salient points of discussion are provided on the slides.
 
-The two key practices for covered in this workshop are 1) using rubrics for every assignment and 2) giving detailed feedback. Highlight the key feature of each and ask folks to brainstorm the reason why each might contribute to effective, equitable feedback. Provide a guided example of how TAs can use a rubric and give feedback (an generalized experimental example is provided). After walking through the example, ask folks what they liked and what was challenging about the process of giving feedback in that example. Discuss potential remedies to these challenges.
+The two key practices for covered in this workshop are 1) using rubrics for every assignment and 2) giving detailed feedback. Highlight the key feature of each and ask folks to brainstorm the reason why each might contribute to effective, equitable feedback. Provide a guided example of how TAs can use a rubric and give feedback (a generalized experimental example is provided). After walking through the example, ask folks what they liked and what was challenging about the process of giving feedback in that example. Discuss potential remedies to these challenges.
 
 Next, give folks a chance to independently create their own rubric and write their own feedback using a real question and student response from a class in your department. Allow TAs to share ideas with neighbors or as a group.
 
