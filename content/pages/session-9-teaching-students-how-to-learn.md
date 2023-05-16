@@ -28,8 +28,8 @@ Explicitly define metacognition. What is it, why do we do it, and how can we ach
 The activity provides a nice segue into a discussion of how we as teachers can promote metacognition.
 
 1. Make learning goals explicit – have TAs brainstorm with a partner some concrete ways they could do this in their classrooms. Some ideas include stating learning goals at the beginning of class, connecting key concepts or problems to stated learning goals, asking students about the purpose/overarching goal of an activity. Communicate to TAs that even if the lead instructor doesn’t have an explicit or written set of learning outcomes for the course, they can ask the lead instructor to share with them:
-    1. what should students should be taking away from the material this week?
-    2. what are students going to be expected to do with this material on future assignments?
+    1. What should students should be taking away from the material this week?
+    2. What are students going to be expected to do with this material on future assignments?
 2. Study strategies – To help TAs explore how metacognition can play a role in different study strategies, have them read through the provided case study. As a group, have TAs identify the study skills that each student implements, and whether or not either student engages in metacognitive practices (thinking about their own learning). This case study is from Kimberly D. Tanner “Promoting Student Metacognition” (2012) *CBE Life Sci Educ.* 11(2): 113–120.
 3. Provide opportunities for students to reflect on their learning – Using the metacognition graphic provided earlier, invite TAs to select a prompt from the graphic and use this as a jumping off point for designing their own in-class activity that promotes metacognition. A rough idea for an activity is fine, and it can be a modification of something they are already doing. Have a few folks share out what prompt they chose and their ideas.
 
