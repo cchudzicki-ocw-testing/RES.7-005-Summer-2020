@@ -2,7 +2,7 @@
 content_type: page
 description: This page contains an embedded podcast episode in which Dr. Summer Morrill
   describes the TA training program at MIT.
-draft: true
+draft: false
 title: Instructor Insights
 uid: 4c21abc7-2270-4bb6-9031-bafc38d9fa09
 ---
